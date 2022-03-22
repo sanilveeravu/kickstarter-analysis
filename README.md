@@ -10,7 +10,7 @@ Looking at a good time to run a campaign, launching it on May looked to be a goo
 
 The median goal that has been successful was around $5000. With the $10,000 set as goal, this showed a slightly increased risk. The upper quartile of goal also sitting at $5000 indicated the same.
 
-To check the success parameters of larger goals, the below image shows the success parameter along with backers and the goal. This kind of indicates an average of 80 to 100 backers needed to make this a succesful campaign.
+To check the success parameters of larger goals, the below image shows the success parameter along with backers and the goal. This kind of indicates an average of 80 to 100 backers needed to make this a succesful campaign. The outliers of goals above $40000 were removed from this chart as they had a failed outcome and was not relevant for the analysis.
 ![Success Visualization](SuccessVisualization.png)
 
 Based on the Edinburgh research getting around that many backers looks feasible.
